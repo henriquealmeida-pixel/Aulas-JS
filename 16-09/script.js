@@ -128,14 +128,14 @@
 // com desconto SE NÃO mostre a mensagem
 // COMPRA SEM DESCONTO
 
-let valor = 600;
-let desconto = valor * 0.20;
+// let valor = 600;
+// let desconto = valor * 0.20;
 
-if (valor > 500) {
-    let total = valor - desconto;
+// if (valor > 500) {
+//     let total = valor - desconto;
 
-    console.log("Valor total com desconto: R$ " + total);
-} else {
-    console.log("COMPRA SEM DESCONTO");     
-}
+//     console.log("Valor total com desconto: R$ " + total);
+// } else {
+//     console.log("COMPRA SEM DESCONTO");     
+// }
 
